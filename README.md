@@ -9,7 +9,7 @@ The official IPL Orange Cap is awarded purely on run volume, ignoring pacing and
 The Analysis:
 I joined 15 years of ball-by-ball data with season outcomes to calculate the exact win-rate of teams holding individual caps.
 
-(Make sure to upload your image and link it here!)
+
 
 Conclusion: The data proves the old adage: Defense wins titles. Teams possessing the Purple Cap winner are significantly more likely to win the IPL trophy.
 
